@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "mayaa",
+    "slug": "mayaa",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "mayaa"
+}
